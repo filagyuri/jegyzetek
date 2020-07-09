@@ -1,3 +1,5 @@
+**A tartalom új helye: <https://github.com/bmeviauac01/adatvezerelt>**
+
 # BME Adatvezérelt rendszerek
 
 Jegyzetek és példa kódok [BMEVIAUAC01 Adatvezérelt rendszerek](https://www.aut.bme.hu/Course/adatvezerelt) tárgyhoz.
